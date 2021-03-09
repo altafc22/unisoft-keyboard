@@ -3,7 +3,7 @@ Tiny and lightweight Soft Keyboard Control solution in unity 3d.
 
 <table>
 <tr>
-<td><img src="https://github.com/altafc22/unisoft-keyboard/blob/master/screenshot/demo.gif?raw=true" alt="UniSoft Keyboard" width="480"/></td>
+<td><img src="https://github.com/altafc22/unisoft-keyboard/blob/master/screenshot/demo.gif" alt="UniSoft Keyboard" width="480"/></td>
 </tr>
 </table>
 
